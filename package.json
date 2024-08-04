@@ -18,7 +18,7 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "leonardosilva-stack",
+  "name": "@leonardosilva-stack/jobber-shared",
   "author": "Leonardo Rosa da Silva",
   "repository": {
     "type": "git",
